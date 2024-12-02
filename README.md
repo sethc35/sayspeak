@@ -75,8 +75,3 @@
 5. **Firebase Credentials:**
     - Create a `credentials` folder inside the `middleware` folder. Place the Firebase Credentials JSON you get from Firebase into the `credentials` folder.
 
-## License
-
-This project is licensed under the MIT License.
-
-P.S. All credentials have been revoked. ;)
